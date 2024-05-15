@@ -1,0 +1,14 @@
+{
+  "name": "sbq-consumer",
+  "version": "1.0.0",
+  "description": "Consumer node js application for Azure Service Bus Queue",
+  "main": "consume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/service-bus": "^7.9.4"
+  }
+}
